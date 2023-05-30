@@ -12,4 +12,4 @@ Finally, we will provide an overview of the structure of the book, highlighting 
 
 This book is intended for healthcare professionals, researchers, and students who want to understand the potential of AI and data analytics for healthcare. By the end of the book, readers will have gained a solid foundation in the fundamentals of AI and data analytics and will be able to apply this knowledge to develop intelligent systems that help doctors and patients make better decisions.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
