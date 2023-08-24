@@ -1,5 +1,3 @@
-Disease Diagnosis and Treatment Planning
-====================================================================================
 
 AI has the potential to revolutionize disease diagnosis and treatment planning, by analyzing large amounts of healthcare data and identifying patterns and insights that would be impossible for humans to detect. In this chapter, we will explore some of the ways that AI is being used to improve disease diagnosis and treatment planning in healthcare.
 

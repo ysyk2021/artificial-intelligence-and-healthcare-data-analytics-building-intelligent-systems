@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses a wide range of tools and techniques for analyzing data and making predictions. In this chapter, we will explore some of the key types of AI, including rule-based systems, expert systems, and neural networks.
 

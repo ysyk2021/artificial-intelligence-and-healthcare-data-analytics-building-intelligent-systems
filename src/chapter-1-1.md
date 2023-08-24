@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Healthcare Data Analytics
-==========================================================================================
 
 Artificial Intelligence (AI) has become an increasingly important technology in healthcare data analytics, offering new opportunities for improving patient outcomes and enhancing the efficiency of healthcare delivery. In this chapter, we will provide an overview of AI and healthcare data analytics and consider some of the key applications and benefits.
 

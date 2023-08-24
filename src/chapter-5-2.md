@@ -1,5 +1,3 @@
-Electronic Health Record Management
-===============================================================================
 
 Electronic Health Records (EHRs) are digital versions of patients' medical records that contain their complete health history, including diagnoses, treatments, and test results. EHRs can be an incredibly valuable tool for healthcare providers, allowing them to access and share patient information quickly and easily.
 

@@ -1,5 +1,3 @@
-Legal Framework
-===============================================================================================
 
 As AI becomes more prevalent in healthcare data analytics, it is important to consider the legal implications of its use. In this chapter, we will explore the legal framework surrounding AI in healthcare data analytics.
 

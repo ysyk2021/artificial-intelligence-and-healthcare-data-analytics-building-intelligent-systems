@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Healthcare Solutions
-==========================================
 
 As we have seen in previous chapters, artificial intelligence (AI) and healthcare data analytics have the potential to transform healthcare delivery. In this chapter, we will explore some of the specific solutions that AI can offer in the healthcare domain.
 

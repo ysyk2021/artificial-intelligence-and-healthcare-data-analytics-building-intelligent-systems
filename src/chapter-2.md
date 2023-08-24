@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To effectively use AI in healthcare data analytics, it is important to have a solid understanding of the background and fundamentals of artificial intelligence. In this chapter, we will explore the history of AI, the different types of AI, and machine learning techniques used in AI.
 

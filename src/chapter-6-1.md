@@ -1,5 +1,3 @@
-Ethical Considerations
-======================================================================================================
 
 As AI becomes more prevalent in healthcare data analytics, it is important to consider the ethical and legal implications of its use. In this chapter, we will explore some of the ethical considerations surrounding AI in healthcare data analytics.
 

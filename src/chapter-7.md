@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Healthcare Data Analytics
-=====================================================
 
 The use of artificial intelligence (AI) in healthcare data analytics is rapidly evolving, and it is important to consider the emerging trends and future prospects of these technologies. In this chapter, we will explore some of the key developments in AI and healthcare data analytics and discuss their potential impact.
 

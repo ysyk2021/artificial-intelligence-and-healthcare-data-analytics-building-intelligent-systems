@@ -1,5 +1,3 @@
-Medical Imaging Analysis
-====================================================================
 
 Medical imaging plays a critical role in modern healthcare, providing doctors with non-invasive ways to diagnose and monitor various medical conditions. However, interpreting medical images can be a time-consuming and error-prone process, leading to delays in diagnosis and treatment. This is where AI-powered solutions come in.
 

@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Healthcare Data Analytics
-=================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize healthcare data analytics by enabling more accurate diagnoses, personalized treatment plans and improved patient outcomes. However, the implementation of AI in healthcare data analytics is not without its challenges and limitations.
 

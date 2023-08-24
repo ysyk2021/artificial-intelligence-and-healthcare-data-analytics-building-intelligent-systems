@@ -1,5 +1,3 @@
-Components of Healthcare
-==================================================================
 
 To understand the role of artificial intelligence (AI) in healthcare data analytics, it is important to first understand the components of the healthcare industry landscape. The healthcare industry is a complex ecosystem that comprises various entities, including patients, healthcare providers, payers, and regulators.
 

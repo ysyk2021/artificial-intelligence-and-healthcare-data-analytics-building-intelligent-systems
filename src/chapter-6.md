@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Healthcare Data Analytics
-==============================================================================
 
 As the use of artificial intelligence (AI) in healthcare data analytics continues to grow, it is important to consider the ethical and legal issues related to these technologies. In this chapter, we will explore some of the ethical considerations and legal frameworks that must be taken into account when using AI in healthcare.
 

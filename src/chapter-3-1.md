@@ -1,5 +1,3 @@
-Global Trends in Healthcare Delivery and Management
-=============================================================================================
 
 The healthcare industry is facing a period of rapid transformation, driven in part by the adoption of artificial intelligence (AI) and data analytics. Healthcare delivery and management are changing as a result, with new trends emerging that are reshaping the way that healthcare is delivered and managed around the world.
 

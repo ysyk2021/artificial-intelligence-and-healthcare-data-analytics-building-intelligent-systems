@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Healthcare Data Analytics
-==================================================
 
 As we have seen in previous chapters, healthcare data analytics plays a crucial role in improving patient outcomes and transforming healthcare delivery. In this chapter, we will explore the specific role that artificial intelligence (AI) plays in healthcare data analytics.
 

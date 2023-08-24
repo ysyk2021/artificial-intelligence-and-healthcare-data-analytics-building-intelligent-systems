@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 To understand how artificial intelligence (AI) can be used in healthcare data analytics, it is important to have a basic understanding of the underlying machine learning techniques that power many AI applications. In this chapter, we will explore some of the key machine learning techniques used in AI, including supervised learning, unsupervised learning, and reinforcement learning.
 
